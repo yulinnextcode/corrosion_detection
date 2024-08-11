@@ -129,6 +129,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+corrosion-detection/
 
 # Spyder project settings
 .spyderproject
